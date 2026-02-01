@@ -1,21 +1,10 @@
-// ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
-// ============================================
-
 const CONFIG = {
-    // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
     valentineName: "Pata",
-
-    // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
     pageTitle: "Will You Be My Valentine? 💝",
-
-    // Floating emojis that appear in the background
-    // Find more emojis at: https://emojipedia.org
+    
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
+        bears: ['🧸', '🐻']                       // Cute bear emojis in background
     },
 
     // Questions and answers
